@@ -21,6 +21,11 @@
       }
     },
     {
+      "label": "ng serve",
+      "type": "shell",
+      "command": "\"start ng serve\""
+    },
+    {
       "type": "npm",
       "script": "test",
       "isBackground": true,
